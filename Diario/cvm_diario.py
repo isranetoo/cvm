@@ -21,8 +21,8 @@ def carregar_dados_diarios(ano, mes):
 # ================================
 # 2. Definir anos e meses desejados (edite conforme necessário)
 # ================================
-anos = [2024]  # Exemplo: pode adicionar/remover anos
-meses = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]       # Exemplo: pode adicionar/remover meses
+anos = [2024]
+meses = [1, 2, 3]
 
 for ano in anos:
 	for mes in meses:

@@ -17,8 +17,8 @@ def carregar_dados_balancete(ano, mes):
 # ================================
 # 2. Definir anos e meses desejados (edite conforme necessário)
 # ================================
-anos = [2025]
-meses = [6, 7, 8]
+anos = [2024]
+meses = [1, 2, 3]
 
 for ano in anos:
 	for mes in meses:

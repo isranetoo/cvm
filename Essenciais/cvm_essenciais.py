@@ -18,8 +18,8 @@ def baixar_lamina(ano_mes):
 # ================================
 # Escolha dos anos e meses (edite conforme necessário)
 # ================================
-anos = [2024, 2025]
-meses = [1, 2, 3, 4, 5]
+anos = [2024]
+meses = [1, 2, 3]
 ano_mes_list = gerar_lista_ano_mes(anos, meses)
 
 for ano_mes in ano_mes_list:
